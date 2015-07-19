@@ -1,0 +1,30 @@
+﻿@using MVCDashboard.UI.MVC.Models
+@model MVCDashboard.UI.MVC.Models.ReleasesViewModel
+
+@{
+	ViewBag.Title = "Releases";
+}
+
+<div class="page-header">	
+	<h2>Releases</h2>			
+</div>
+<a href='@Url.Action("RefreshAndDisplayReleaseQueries", "Release")'>
+	<div class="tile double bg-color-blue">
+		<div class="tile-content">
+			Manually refresh cached queries
+		</div>
+		<div class="brand">
+			<span class="name">last cached: @Model.TimeCached</span>
+		</div>
+	</div>
+</a>
+@foreach (ReleaseQueryViewModel releaseQueryViewModel in Model.ReleaseQueries)
+{
+	<a href='@Url.Action("DisplayDashboard", "Release", new { queryId = releaseQueryViewModel.Id })'>
+		<div class="tile bg-color-orange">
+			<div class="tile-content">
+				@releaseQueryViewModel.Name
+			</div>
+		</div>
+	</a>
+}

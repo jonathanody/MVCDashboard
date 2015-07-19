@@ -1,0 +1,62 @@
+﻿@using MVCDashboard.UI.MVC.Models
+@model MVCDashboard.UI.MVC.Models.ReleaseDashboardViewModel
+
+@{
+	ViewBag.Title = Model.Title;
+}
+
+@section scriptsTop {	
+	@CustomHtmlHelper.Script("Highcharts-2.2.1/js/highcharts.js", Url)	
+}
+
+<div class="page-header">
+	<h2>@Model.Title</h2>
+</div>
+<div id="dashboardContainer">
+	<div id="row1" class="dashboardRow">
+		<div id="chart1" class="dashboardWidget">
+			<div class="dashboardWidgetHeader">Release Work Item States</div>
+			<div class="dashboardWidgetBody">
+				@Model.StatePieChart
+			</div>
+		</div>
+		<div id="chart2" class="dashboardWidget">
+			<div class="dashboardWidgetHeader">Release Work Items Passed Integration Testing Burndown</div>
+			<div class="dashboardWidgetBody">
+				@Model.PassedTestingChart
+			</div>
+		</div>
+	</div>
+	<div id="row2" class="dashboardRow">
+		<div id="chart3" class="dashboardWidget">
+			<div class="dashboardWidgetHeader">Detected In Release Defect Work Item Triage Status</div>
+			<div class="dashboardWidgetBody">
+				@Model.TriageStatusChart
+			</div>
+		</div>
+		<div id="chart4" class="dashboardWidget">
+			<div class="dashboardWidgetHeader">Detected In Release Defect Work Items Awaiting Triage</div>
+			<div class="dashboardWidgetBody">
+				<table class="tbl">
+					<thead>
+						<tr>
+							<th>Id</th>
+							<th>Title</th>
+							<th>Created</th>
+						</tr>
+					</thead>
+					<tbody>
+					@foreach (DefectWorkItemViewModel workItem in Model.NonTriagedWorkItems)
+					{
+						<tr class="@workItem.RagStatus">
+							<td>@workItem.Id</td>
+							<td>@workItem.Title</td>
+							<td>@workItem.CreateDate</td>
+						</tr>		
+					}
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+</div>
