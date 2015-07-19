@@ -1,0 +1,40 @@
+﻿@using MVCDashboard.UI.MVC.Models
+@model IEnumerable<MVCDashboard.UI.MVC.Models.ReleaseQueryViewModel>
+
+@{
+	ViewBag.Title = "MVC Dashboard Home";
+}
+
+<div id="dashboardTileContainer" class="noTitleMargin">
+	<a href='@Url.Action("Index", "Testing")'>
+		<div id="testingTile" class="tile double triple-vertical bg-color-blue">
+			<div class="tile-content" >
+				<h2>
+					<b>Testing</b>
+				</h2>
+			</div>		
+		</div>
+	</a>
+	<a href='@Url.Action("Index", "Development")'>
+		<div id="developmentTile" class="tile double triple-vertical bg-color-purple">
+			<div class="tile-content">
+				<h2>
+					<b>Development</b>
+				</h2>
+			</div>
+		</div>
+	</a>
+	<a href="#">
+		<div id="projectManagementTile" class="tile double triple-vertical bg-color-graydark noHover">
+			<div class="tile-content">
+				<h2>
+					<b>Project Management</b>
+				</h2>
+				<br />
+				<h3>
+					Currently Unavailable
+				</h3>
+			</div>
+		</div>
+	</a>		
+</div>

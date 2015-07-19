@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Built on 22/10/2012 15:36:48-->
+<DefectWorkItems>
+  <DefectWorkItem>
+    <Id>60139</Id>
+    <Title>Left button broken</Title>
+    <Triaged>No</Triaged>
+    <CreatedDate>2013-04-22T15:01:16.103+01:00</CreatedDate>
+  </DefectWorkItem>
+  <DefectWorkItem>
+    <Id>60119</Id>
+    <Title>Link mis-spelt</Title>
+    <Triaged>No</Triaged>
+    <CreatedDate>2013-04-22T13:45:55.97+01:00</CreatedDate>
+  </DefectWorkItem>
+  <DefectWorkItem>
+    <Id>60045</Id>
+    <Title>Dialog missing</Title>
+    <Triaged>No</Triaged>
+    <CreatedDate>2013-04-22T10:27:54.283+01:00</CreatedDate>
+  </DefectWorkItem>
+  <DefectWorkItem>
+    <Id>59997</Id>
+    <Title>Application does not close</Title>
+    <Triaged>Yes</Triaged>
+    <CreatedDate>2013-04-19T13:49:28.61+01:00</CreatedDate>
+  </DefectWorkItem>
+  <DefectWorkItem>
+    <Id>59987</Id>
+    <Title>Application dooes not open</Title>
+    <Triaged>Yes</Triaged>
+    <CreatedDate>2013-04-19T12:36:19.01+01:00</CreatedDate>
+  </DefectWorkItem> 
+</DefectWorkItems>

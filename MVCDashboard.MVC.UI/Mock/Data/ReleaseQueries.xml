@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ReleaseQueries>
+  <ReleaseQuery>
+    <Id>df9b9c07-51eb-4441-bcf5-6a2e9f2b3d7a</Id>
+    <Name>Release 2.10.0</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>b57c6602-2e9f-49e1-b1da-2e9e11e25495</Id>
+    <Name>Release 2.10.0100</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>55c0cd88-910f-45d5-8c49-3d4c510e093a</Id>
+    <Name>Release 2.11.0000</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>d6d25394-7290-4f28-9ca2-eea541c57cc1</Id>
+    <Name>Release 2.11.0100</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>967436ba-989f-4e37-9373-6c8365c4de1c</Id>
+    <Name>Release 2.11.0200</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>bbd55e32-964c-4203-9b59-885d962bbc22</Id>
+    <Name>Release 2.11.0400</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>dc477d9f-8f4b-4e11-834b-7e3a83077293</Id>
+    <Name>Release 2.12.0000</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>a15f1484-d5a3-41b5-bafc-f68adde5b858</Id>
+    <Name>Release 2.13.0000</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>c3022e5b-4545-457e-ba6b-be749f11d480</Id>
+    <Name>Release 2.14.0000</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>b860a3ed-9097-4ed2-902c-0eb0357f5f0f</Id>
+    <Name>Release 2.14.0100</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>00231741-4cdc-4088-87a2-76ea3b6daca8</Id>
+    <Name>Release 2.14.0200</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>f2196455-d7d7-4edc-a01a-83a159888b9a</Id>
+    <Name>Release 2.15.0000</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>50e15478-24e9-4b39-94bd-ab9c02809bf6</Id>
+    <Name>Release 2.15.0100</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>8d334c66-cefe-481f-8a65-6bb8b91a2667</Id>
+    <Name>Release 2.15.0400</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>a842af67-8463-42e1-9f45-2dc42f7f9419</Id>
+    <Name>Release 2.15.0500</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>5d7071d9-6c3d-4671-ad4c-426d48cde526</Id>
+    <Name>Release 2.16.0000</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>418789c3-7d12-4b39-a930-ebc29ecd79ce</Id>
+    <Name>Release 2.17.0000</Name>
+  </ReleaseQuery>
+  <ReleaseQuery>
+    <Id>e916a152-36a2-4179-9427-cd51eb1794cc</Id>
+    <Name>Release 2.17.0100</Name>
+  </ReleaseQuery>
+</ReleaseQueries>

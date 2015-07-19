@@ -1,0 +1,7 @@
+﻿@using MVCDashboard.UI.MVC.Models
+@model IEnumerable<ProjectTileViewModel> 
+
+@foreach (ProjectTileViewModel project in Model)
+{
+	Html.RenderPartial("ProjectTileView", project);
+}

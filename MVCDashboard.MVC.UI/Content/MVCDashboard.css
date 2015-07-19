@@ -1,0 +1,102 @@
+﻿.page-region {
+	padding: 0 5px;
+}
+
+.dashboardRow {
+	height: 50%;
+}
+
+.dashboardWidget  
+{
+	width: 50%; 
+	height: 50%; 
+	float: left; 
+	text-align: center; 
+}
+
+.dashboardWidgetHeader  
+{
+	font-size:1.2em; 	
+	padding:7px; 
+	background-color:#dbdbdb; 
+	margin: 0 5px 0 5px; 
+}
+
+.dashboardWidgetBody  
+{
+	margin:10px 10px 5px 10px; 
+	overflow:hidden; 
+}
+
+.dashboardFooter 
+{
+	clear:both; 
+	width:100%; 
+	background-color:Red;
+}
+
+.tbl  
+{
+	table-layout:auto; 
+	border-collapse:collapse; 
+	width:100%;
+}
+
+.tbl thead th  
+{
+	border-bottom:solid 1px #ededed; 
+	background-color:#ededed; 
+	padding:5px; 
+	text-align:left; 	
+	color: Black;
+	font-size:0.9em; 
+	font-weight:normal;
+}
+
+.tbl tbody td  
+{
+	border-bottom:solid 1px #ededed; 
+	padding:5px; 
+	color: Black;	
+	font-size:0.9em; 
+	text-align:left;
+}
+
+#dashboardTileContainer {
+	width: 1000px; 
+	margin-left: auto; 
+	margin-right: auto;
+}
+
+.carousel {
+	height: 150px;
+}
+
+.slides {
+	text-align: center;
+}
+
+.projectTileBrand {
+	padding: 0 0 0 15px;
+}
+
+.summaryTileBrand {
+	padding: 0 0 10px 0;
+}
+
+.summaryTileCount {
+	font-size: 4em;
+	font-weight: bold;
+}
+
+.floatLeft {
+	float: left;
+}
+
+.fullWidth {
+	width: 100%;
+}
+
+.noTitleMargin {
+	margin-top: 20px;
+}

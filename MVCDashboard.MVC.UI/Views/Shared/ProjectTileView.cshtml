@@ -1,0 +1,12 @@
+﻿@model MVCDashboard.UI.MVC.Models.ProjectTileViewModel
+
+<a href='@Url.Action("DisplayDashboard", "Release", new { queryId = @Model.QueryId })'>
+	<div id="@Model.TileName" class="tile double bg-color-transition @Model.StatusCSSClass">
+		<div class="tile-content">
+			<h4><span class="tileName fg-color-transition">@Model.ProjectName</span></h4>
+		</div>
+		<div class="brand projectTileBrand">
+			<h6 class="tileFooter"><span>@Model.Stage</span></h6>
+		</div>
+	</div>
+</a>

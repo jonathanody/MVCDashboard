@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Built on 02/05/2013 15:36:48-->
+<ReleaseWorkItems>
+  <ReleaseWorkItem>
+    <State>Assessment</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>2 - High</Severity>
+    <PassedIntegrationTestingDate>2013-04-18T11:26:38.033+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-19T13:00:58.983+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-19T12:19:09.89+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-18T11:26:38.033+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-19T12:46:56.053+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-18T11:26:38.033+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-19T12:44:03.473+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-19T11:30:50.7+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-19T10:37:01.977+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-19T12:23:46.263+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-19T12:29:15.847+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-16T10:00:00.483+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-22T12:26:48.913+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-17T17:44:27.653+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>5 - Cosmetic</Severity>
+    <PassedIntegrationTestingDate>2013-04-16T09:58:19.72+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>5 - Cosmetic</Severity>
+    <PassedIntegrationTestingDate>2013-04-17T12:35:24.143+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-16T09:57:29.19+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-16T09:58:09.09+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>5 - Cosmetic</Severity>
+    <PassedIntegrationTestingDate>2013-04-16T15:52:37.86+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-16T15:52:37.61+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-18T15:42:36.87+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-19T11:48:17.94+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-12T10:10:13.273+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-17T12:34:13.79+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-17T12:31:34.183+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-17T12:31:42.127+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-17T15:51:18.52+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-19T00:03:59.207+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-11T11:45:04.9+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-17T15:47:55.42+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-11T11:45:19.877+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>5 - Cosmetic</Severity>
+    <PassedIntegrationTestingDate>2013-04-11T11:45:42.22+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>2 - High</Severity>
+    <PassedIntegrationTestingDate>2013-04-18T11:06:55.887+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-11T11:46:17.503+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-12T09:44:21.057+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-11T15:55:47.423+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-18T15:34:01.75+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-16T09:56:39.06+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>2 - High</Severity>
+    <PassedIntegrationTestingDate>2013-04-11T15:55:06.507+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-18T15:52:17.053+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-11T15:54:40.51+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-11T15:54:24.8+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-18T16:25:47.55+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-17T09:57:40.253+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-11T11:51:41.387+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-22T14:26:28.427+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-11T11:52:11.233+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-17T15:48:03.843+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-17T09:57:38.403+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-16T09:55:12.513+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-18T11:48:33.47+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-19T11:29:58.827+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-17T09:57:39.497+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-18T12:20:24.313+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>2 - High</Severity>
+    <PassedIntegrationTestingDate>2013-04-17T09:57:39.927+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-18T15:17:32.117+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-16T09:04:54.87+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-17T15:18:40.37+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-19T15:46:37.113+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-17T09:57:39.74+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-16T09:05:33.043+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-19T11:30:25.867+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-18T15:17:59.73+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-16T17:02:55.043+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-16T17:02:54.463+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-16T08:58:29.243+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-16T15:51:56.12+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-16T08:58:42.433+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>2013-04-16T08:58:10.64+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Integration Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>2013-04-19T12:21:01.9+01:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>2 - High</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>1 - Critical</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>1 - Critical</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>4 - Low</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Passed Testing</State>
+    <Severity>3 - Medium</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Ready To Integration Test</State>
+    <Severity>1 - Critical</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+  <ReleaseWorkItem>
+    <State>Ready To Integration Test</State>
+    <Severity>2 - High</Severity>
+    <PassedIntegrationTestingDate>0001-01-01T00:00:00</PassedIntegrationTestingDate>
+  </ReleaseWorkItem>
+</ReleaseWorkItems>

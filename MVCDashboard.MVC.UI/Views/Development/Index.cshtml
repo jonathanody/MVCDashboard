@@ -1,0 +1,61 @@
+﻿@using MVCDashboard.UI.MVC.Models
+@model DevelopmentSummaryViewModel
+
+@{
+	ViewBag.Title = "Development";
+}
+
+<h2>Development</h2>
+<div id="dashboardTileContainer">
+	<div id="releasesTile" class="tile double double-vertical bg-color-blue" onclick="document.location.href='@Url.Action("Index", "Release")'">
+		<div class="tile-content" >
+			<h3>
+				<span><b>Releases:</b></span>
+				<span class="place-right"><b>@Model.ReleaseCount</b></span>
+			</h3>
+		</div>
+		<div class="brand">
+			<div class="carousel" data-role="carousel" data-param-effect="fade"
+				data-param-slide="left" data-param-duration="3000" data-para-period="3000" data-param-markers="off">
+				<div class="slides">
+					@foreach (SummaryTileViewModel releaseSummaryTile in Model.ReleaseSummaryTiles)
+					{
+						Html.RenderPartial("SummaryTileView", releaseSummaryTile);
+					}
+				</div>	
+			</div>
+		</div>
+	</div>
+		<div id="projectsTile" class="tile double double-vertical bg-color-purple" onclick="document.location.href='@Url.Action("Index", "Release")'">
+		<div class="tile-content" >
+			<h3>
+				<span><b>Projects:</b></span>
+				<span class="place-right"><b>@Model.ProjectCount</b></span>
+			</h3>
+		</div>
+		<div class="brand">
+			<div class="carousel" data-role="carousel" data-param-effect="fade"
+				data-param-slide="left" data-param-duration="3000" data-para-period="3000" data-param-markers="off">
+				<div class="slides">
+					@foreach (SummaryTileViewModel projectSummaryTile in Model.ProjectSummaryTiles)
+					{
+						Html.RenderPartial("SummaryTileView", projectSummaryTile);
+					}
+				</div>	
+			</div>
+		</div>
+	</div>
+	<div id="blogsTile" class="tile double double-vertical bg-color-pinkDark noHover" data-role="tile-slider" data-param-period="3000">
+		@foreach (BlogTileViewModel blogTileViewModel in Model.BlogTiles)
+		{
+			Html.RenderPartial("BlogTileView", blogTileViewModel);
+		}
+	</div>	
+	<div id="projectTiles" class="floatLeft fullWidth"></div>	
+</div>
+
+@section scriptsBottom {
+	@CustomHtmlHelper.Script("TFSD/PartialViewTileRefresh.js", Url)
+	@CustomHtmlHelper.Script("metroUI/tile-slider.js", Url)
+	@CustomHtmlHelper.Script("metroUI/carousel.js", Url)
+}
